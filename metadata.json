@@ -1,0 +1,7 @@
+{
+  "name": "Lecture Note Shrinker",
+  "description": "An AI-powered tool that transforms long lecture recordings into concise, high-density shorthand bullet points to maximize information retention while minimizing word count.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
